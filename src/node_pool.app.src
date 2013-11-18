@@ -1,0 +1,8 @@
+{application, node_pool,
+ [
+  {description, "DHT-ring based node pool"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {applications, [kernel, stdlib, dht_ring, erpc]},
+  {env, []}
+ ]}.
