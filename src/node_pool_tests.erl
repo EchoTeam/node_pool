@@ -1,4 +1,8 @@
-% vim: ts=4 sts=4 sw=4 expandtab:
+%%% 
+%%% Copyright (c) 2008-2014 JackNyfe, Inc. <info@jacknyfe.com>
+%%% All rights reserved.
+%%%
+%%% vim: ts=4 sts=4 sw=4 expandtab:
 
 -module(node_pool_tests).
 
